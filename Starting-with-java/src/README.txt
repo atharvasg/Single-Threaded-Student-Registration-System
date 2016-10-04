@@ -1,24 +1,8 @@
 
-CS542 Design Patterns
-Fall 2016
-PROJECT 1 README FILE
-
-Due Date: Tuesday, August 30, 2016
-Submission Date: Tuesday, August 30, 2016
-Grace Period Used This Project: 0 Days
-Grace Period Remaining: 0 Days
 Author(s): Atharva S Ghaisas
-e-mail(s): aghaisa1@binghamton.edu
-
 
 PURPOSE:
 Program for assigning the courses to students based on their preferences.
-
-PERCENT COMPLETE:
-I believe I have completed 100% of this project.
-
-PARTS THAT ARE NOT COMPLETE:
-N/A
 
 FILES:
 Included with this project are 9 files.
@@ -59,12 +43,4 @@ java Driver Input.txt Output.txt
 
 DATA STRUCTURES USED:
 ArrayList - Array list takes O(1) time for Inserting data and O(n) as a worst case for searching for the data in the list.
-
-EXTRA CREDIT:
-N/A
-
-BIBLIOGRAPHY:
-
-referred for checking how to write to file using bufferedWriter.
-https://www.mkyong.com/java/how-to-write-to-file-in-java-bufferedwriter-example/
 
